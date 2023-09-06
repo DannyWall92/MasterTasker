@@ -1,0 +1,1 @@
+<h4>&copy; 2020 DEW Development.<br />For support contact <a href="mailto:support@dewdevelopment.com">us by email</a>.</h4>
